@@ -1,4 +1,4 @@
 jjj
 
 
-git@github.com:crosbreaker/skiovox-141.git
+https://skiovox141.crosbreaker.dev/open
